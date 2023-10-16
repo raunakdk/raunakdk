@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/raunak-d-4001141b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-d-4001141b8" height="30" width="40" /></a>
 <a href="https://instagram.com/raunak___k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak___k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@raunak_dinesh201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raunak_dinesh201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raunakkodwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raunakkodwani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ichigo07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raunakkodwani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
