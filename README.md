@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunakdk&show_icons=true&locale=en&layout=compact" alt="raunakdk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakdk&" alt="raunakdk" /></p>
+
